@@ -1,0 +1,5 @@
+Your account ceo@inteople.com has been setup. In your e-mail program, use:
+Username:	ceo@inteople.com
+Password:	s0h3l136515#SL
+POP/IMAP Server:	mail.inteople.com
+SMTP Server:	mail.inteople.com port 587
